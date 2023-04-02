@@ -113,59 +113,5 @@
         "stock": 6,
         "numOfReviews": 9,
         "reviews": []
-    },
-    {
-        "name": "Arima Shirts for Casuals",
-        "price": 7.5,
-        "description": "The high raised back cover with extra padding.",
-        "ratings": 4.5,
-        "images": [
-            {
-                "image": "/images/products/8.jpg"
-            },
-            {
-                "image": "/images/products/9.jpg"
-            }
-        ],
-        "category": "Clothes/Shoes",
-        "seller": "Ebay",
-        "stock": 10,
-        "numOfReviews": 12,
-        "reviews": []
-    },
-    {
-        "name": "Arima Shirts for Casuals",
-        "price": 7.5,
-        "description": "The high raised back cover with extra padding.",
-        "ratings": 4.5,
-        "images": [
-            {
-                "image": "/images/products/10.jpg"
-            },
-            {
-                "image": "/images/products/11.jpg"
-            }
-        ],
-        "category": "Clothes/Shoes",
-        "seller": "Ebay",
-        "stock": 10,
-        "numOfReviews": 12,
-        "reviews": []
-    },
-    {
-        "name": "Arima Shirts for Casuals",
-        "price": 7.5,
-        "description": "The high raised back cover with extra padding.",
-        "ratings": 4.5,
-        "images": [
-            {
-                "image": "/images/products/12.jpg"
-            }
-        ],
-        "category": "Clothes/Shoes",
-        "seller": "Ebay",
-        "stock": 10,
-        "numOfReviews": 12,
-        "reviews": []
     }
 ]

@@ -41,7 +41,7 @@ export const getProduct = id => async (dispatch) => {
     try {
         dispatch(productRequest())
         // const { data } = await axios.get(`https://akj-ecommserver.onrender.com/api/v1/product/${id}`)
-        const { data } = await axios.get(`http://localhost:8000/api/v1/product/${id}`)
+        const { data } = await axios.get(`/api/v1/product/${id}`)
         dispatch(productSuccess(data))
     } catch (error) {
         // handle Error
